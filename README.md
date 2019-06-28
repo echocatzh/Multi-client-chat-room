@@ -26,7 +26,7 @@ this program was coded on windows, if you use on Linux system, you should change
    python ServerMID.py
    ```
 
-   When you run this server, server will read file called `setting.json`, user name and hash value of password were stored here, all default password are `hash("123")`
+   When you run this server, server will read file called `setting.json`, user name and hash value of password were stored here, all default password are `hash("111")`
 
 2. And click the start button to run server.
 
